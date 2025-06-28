@@ -1,0 +1,40 @@
+# Core AI and Machine Learning
+torch
+torchvision
+torchaudio
+xgboost
+scikit-learn
+stable-baselines3
+gymnasium
+transformers
+hmmlearn
+pandas
+numpy
+scipy
+
+# Quantitative Finance & Data
+ccxt
+talib-binary
+fmp-py
+alpha-vantage
+yfinance
+
+# Graph Neural Networks (Requires careful installation)
+torch-geometric 
+Note on PyTorch Geometric Installation:
+Installing torch-geometric can be tricky. Please follow the official installation instructions based on your PyTorch and CUDA version: https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html
+
+# Optimization
+optuna
+bayes_opt
+pymoo
+
+# Utilities & Web
+python-dotenv
+aiohttp
+matplotlib
+joblib
+pyro-ppl
+imblearn
+pathlib
+requests
